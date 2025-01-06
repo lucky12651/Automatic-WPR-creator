@@ -1,0 +1,62 @@
+WEEKLY PROGRESS REPORT (WPR) For the week commencing: 31/12/2024-06/01/2025
+WPR :- 3 Enrolment Number: A41105221076 Program: B.Tech (CSE) Student Name: Vaibhav Srivastava Faculty Guide’s Name: Durgesh Kumar Jha
+Project Title: Harmful Language Detection Using Machine Learning and Python
+TARGETS SET FOR THE WEEK :- Model Enhancement and Fine-tuning:
+● Integrate more advanced NLP techniques, such as Word2Vec or GloVe embeddings, to improve the machine learning model’s performance.
+● Fine-tune the model’s hyperparameters using techniques like grid search or random search for better accuracy and recall.
+Frontend Feature Improvements:
+● Add new features to the user interface, such as text highlighting to mark violent language in the input text.
+● Ensure responsiveness and cross-browser compatibility for the web application’s frontend. Backend Scalability:
+● Enhance the Flask backend to handle multiple simultaneous requests efficiently.
+● Implement error handling for invalid inputs or edge cases to improve robustness.
+ 
+ ACHIEVEMENTS FOR THE WEEK :-
+Advanced Model Implementation:
+● Successfully incorporated Word2Vec embeddings to represent text more effectively, improving model performance.
+● Achieved better evaluation metrics, such as an increase in F1-score and recall for violent language detection.
+Feature-Rich Frontend:
+● Added text highlighting to the frontend, where detected violent language is marked for better user understanding.
+● Improved the overall responsiveness of the interface, ensuring a seamless experience on different devices and screen sizes.
+Backend Optimization:
+● Optimized the Flask backend to efficiently handle concurrent requests, ensuring real-time feedback even under load.
+● Added robust error handling mechanisms, including clear error messages for unsupported input formats or missing data.
+Future Work Plans :-
+Model Integration with Advanced NLP Models:
+● Experiment with pre-trained transformer models, such as BERT or RoBERTa, to further improve the accuracy and contextual understanding of violent language detection.
+● Test the integration of these models into the current backend architecture for real-time performance.
+Batch Processing Capability:
+● Develop batch processing functionality to allow users to classify multiple text inputs simultaneously.
+● Design a mechanism to display results for bulk processing in an organized and user-friendly format.
+Deployment Preparation:
+● Begin preparing for deployment by setting up hosting environments (e.g., AWS or Heroku).
+● Test the application on different hosting platforms to ensure smooth deployment and
+operation.
+User Feedback and Improvements:
+● Conduct preliminary user testing to gather feedback on the system’s usability and accuracy.
+● Identify areas for improvement based on user insights and refine the application accordingly.
+
+AMITY SCHOOL OF ENGINEERING TECHNOLOGY
+  WPR of Week 3rd :- (31/12/2024-06/01/2025) WPR’s Remaining :-15 Enrollment Number :- A41105221076 Programme:-B.Tech (CSE) Major Project Subject Area :- Machine Learning
+Week’s Summary
+Days/Time
+ 
+Monday
+ Advanced Model Implementation
+● Integrated Word2Vec embeddings to enhance the feature representation of text data.
+● Retrained the model using advanced NLP techniques, resulting in improved accuracy.
+Tuesday
+ Frontend Feature Development
+● Added text highlighting to the frontend to mark violent language within user input.
+● Improved the responsiveness of the frontend for better compatibility across devices.
+Wednesday
+ Backend Optimization
+● Enhanced the Flask backend to support multiple simultaneous requests efficiently.
+● Implemented error handling for invalid inputs and edge cases.
+Thursday
+ System Testing and Debugging
+● Conducted extensive testing of the frontend-backend integration for seamless communication.
+● Fixed bugs related to text highlighting and request-response delays in the application.
+Friday
+ Performance Evaluation
+● Evaluated the updated model’s performance using metrics such as F1-score, precision, and recall.
+● Benchmarked the system under simulated concurrent user scenarios to test scalability.
